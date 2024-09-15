@@ -1,6 +1,14 @@
 # -Django-Meeting-Planner
 Meeting Planner with Django Framework, HTML, CSS
 
+# -To Install Django
+pip install Django
+
+# -To Create Virtualenv
+pip install pipenv
+<br>
+pipenv shell
+
 # -To Create django project
 django-admin startproject <project_name>
 <br>
