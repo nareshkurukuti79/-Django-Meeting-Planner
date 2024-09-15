@@ -28,6 +28,9 @@ python manage.py sqlmigrate meetings 0001
 
 --To create super user in the admin
 python manage.py createsuperuser
+<br>
 username: admin
+<br>
 email: admin@gmail.com
+<br>
 password: admin
